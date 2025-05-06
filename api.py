@@ -102,7 +102,7 @@ if __name__ == "__main__":
 # aiosqlite==0.21.0
 # annotated-types==0.7.0
 # anyio==4.9.0
-# asyncmy==0.2.10
+# 
 # attrs==25.3.0
 # bcrypt==4.3.0
 # certifi==2025.1.31
