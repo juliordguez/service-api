@@ -161,7 +161,6 @@ if __name__ == "__main__":
 # starlette==0.46.2
 
 # urllib3==2.4.0
-# uvicorn==0.34.2
 # watchfiles==1.0.5
 # webcolors==24.11.1
 # websockets==15.0.1
